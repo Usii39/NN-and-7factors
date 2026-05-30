@@ -1,4 +1,4 @@
-# 📈 深度學習與多因子資產定價：台灣股市實證研究
+# 📈 神經網路結合多因子預測報酬
 **(Deep Learning for Asset Pricing: Multi-Factor Neural Network Strategy in Taiwan Stock Market)**
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
