@@ -1,4 +1,4 @@
-# 📈 神經網路結合多因子預測報酬－非線性量化交易策略
+# 📈 深度多因子選股－運用神經網路建構非線性量化交易策略
 
 **(Deep Learning for Asset Pricing: Multi-Factor Neural Network Strategy in Taiwan Stock Market)**
 
